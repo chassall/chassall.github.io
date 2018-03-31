@@ -10,11 +10,7 @@ I'm a PhD candidate in the interdisciplinary program at the University of Victor
 I am co-supervised by [Olav Krigolson](http://www.olavkrigolson.com/) and [Clay Holroyd](https://www.uvic.ca/socialsciences/psychology/people/faculty-directory/holroydclay.php). Most of the time, I can be found in [The Neuroeconomics Laboratory](http://www.neuroeconlab.com/) at the University of Victoria.
 
 My research interests include:
-
-Computational Neuroscience
-
-Reinforcement Learning
-
-Neuroimaging
-
-Decision Making
+* Computational Neuroscience
+* Reinforcement Learning
+* Neuroimaging
+* Decision Making
