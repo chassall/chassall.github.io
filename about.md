@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-![cameron](/images/cameron.jpg)
+<img style="margin-left: 10px; margin-right: 10px; float: right;" src="/images/cameron.jpg" alt="cameron" width="350" height="233">
 
 I'm a PhD candidate in the interdisciplinary program at the University of Victoria in Victoria, BC. I have an MSc in [Experimental Psychology](https://www.dal.ca/faculty/science/psychology_neuroscience.html) from Dalhousie University, and undergraduate degrees in [Mathematical Physics](https://www.ualberta.ca/physics/) (University of Alberta) and [Cognitive Systems](https://cogsys.ubc.ca/) (University of British Columbia).
 
