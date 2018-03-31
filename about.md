@@ -3,16 +3,13 @@ layout: page
 title: About
 permalink: /about/
 ---
+I'm currently a PhD candidate in the interdisciplinary program at the University of Victoria in Victoria, BC. I have an MSc in [Experimental Psychology] (https://www.dal.ca/faculty/science/psychology_neuroscience.html) from Dalhousie University, and undergraduate degrees in [Mathematical Physics] (https://www.ualberta.ca/physics/) (University of Alberta) and [Cognitive Systems] (https://cogsys.ubc.ca/) (University of British Columbia).
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am co-supervised by [Olav Krigolson] (http://www.olavkrigolson.com/) and [Clay Holroyd] (https://www.uvic.ca/socialsciences/psychology/people/faculty-directory/holroydclay.php). Most of the time, I can be found in [The Neuroeconomics Laboratory] (http://www.neuroeconlab.com/) at the University of Victoria.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My research interests include:
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Computational Neuroscience
+Reinforcement Learning
+Neuroimaging
+Decision Making
