@@ -7,6 +7,9 @@ permalink: /publications/
 
 <h1>Journal Articles</h1>
 <h2>Refereed</h2>
+<p>Hassall, C.D., Hacjack, G., and Krigolson, O.E. (submitted). The importance of agency in human reward processing.</p>
+<p>Williams, C.C., Kappen, M., Hassall, C.D., Wright, B., and Krigolson, O.E. (submitted). Thinking, theta and alpha: Mechanisms of cognitive control and attention.</p>
+<p>Colino, F.L., Williams, C.C., Luehr, S.J.C., Fisher, S., McCulloch, R., Hassall, C.D., Binstead, G., and Krigolson, O.E. (submitted). The impact of wellness on neural learning systems.</p>
 <p>Hassall, C.D., Connor, P.C., Trappenberg, T.P., McDonald, J.J., and Krigolson, O.E. (2018). Learning what matters: Neural evidence for the sparsity bias. <em>The </em><span id="docs-internal-guid-6a2da53b-2421-e47e-9eee-0764a70bf077"><em>International Journal of Psychophysiology, 127</em>, 62-72. (<a href="https://www.sciencedirect.com/science/article/abs/pii/S0167876017306062">link</a>).</span></p>
 <p>Howse, A.D., Hassall, C.D., Williams, C.C., Hacjack, G., and Krigolson, O.E. (2018). Alcohol hangover impacts learning and reward processing within the medial-frontal cortex. <em>Psychophysiology</em>, e13081. (<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/psyp.13081">link</a>).</p>
 <p>Williams, C. C., Hassall, C. D., Trska, R., Holroyd, C. B., &amp; Krigolson, O. E. (2017). When theory and biology differ: The relationship between reward prediction errors and expectancy.<em> Biological Psychology, 129</em>, 265–272. (<a href="https://www.sciencedirect.com/science/article/pii/S0301051117302429">link</a>)</p>
