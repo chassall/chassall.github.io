@@ -162,6 +162,6 @@ Hassall, C.D., Connor, P., Trappenberg, T., & Krigolson, O.E. (2012). Medial-fro
 
 Hassall, C., d'Alessandro, N., Fels, S., & Pritchard, B. (2011). Refactoring the DiVA: A Software Engineering Approach to Digital Music. Poster presented at the West Coast Composers Symposium, Vancouver, BC. 
 
-Krigolson, O.E., Hassall, C.D., & Handy, T.C. (2010) Electroencephalographic evidence for the rapid propagation of reinforcement learning prediction errors in medial-frontal cortex. Poster presented at the Society for Neuroscience (SfN) Meeting, San Diego, CA. ([link](http://www.abstractsonline.com/Plan/ViewAbstract.aspx?mID=2554&sKey=af0c6209-4830-4758-982a-8e9375e19bb3&cKey=3ec4406a-1f35-49b5-95e5-715ba05b2a9e&mKey=%7BE5D5C83F-CE2D-4D71-9DD6-FC7231E090FB%7D))
+Krigolson, O.E., Hassall, C.D., & Handy, T.C. (2010) Electroencephalographic evidence for the rapid propagation of reinforcement learning prediction errors in medial-frontal cortex. Poster presented at the Society for Neuroscience (SfN) Meeting, San Diego, CA.
 
-Nordstrom, K.I., Fels, S., Hassall, C.D., & Pritchard, B. (2010) Developing vowel mappings for an interactive voice synthesis system controlled by hand motions. Poster presented at the 158th Acoustical Society of America Meeting, Baltimore, MD. ([link](http://scitation.aip.org/getabs/servlet/GetabsServlet?prog=normal&id=JASMAN000127000003002021000001&idtype=cvips&gifs=yes)) 
+Nordstrom, K.I., Fels, S., Hassall, C.D., & Pritchard, B. (2010) Developing vowel mappings for an interactive voice synthesis system controlled by hand motions. Poster presented at the 158th Acoustical Society of America Meeting, Baltimore, MD.
