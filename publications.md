@@ -2,7 +2,6 @@
 layout: page
 title: Publications
 permalink: "/publications/"
-published: false
 
 ---
 ![leaves](/images/leaves.jpg)
