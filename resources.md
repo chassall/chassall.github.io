@@ -4,7 +4,7 @@ title: Resources
 permalink: "/resources/"
 
 ---
-![resources](/images/resources.jpg)
+![A small word cloud of the technology I use currently](/images/resources.jpg)
 
 ### [Muse](/resources/muse)
 
