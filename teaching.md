@@ -4,7 +4,7 @@ title: Teaching
 permalink: "/teaching/"
 
 ---
-![resources](/images/berries.jpg)
+![Some small red berries near where I used to live](/images/berries.jpg)
 
 **Post-Secondary (TA)**
 
@@ -30,7 +30,7 @@ CPSC 213: Introduction to Computer Systems, UBC, 2010 (for [Tamara Munzner](http
 
 COGS 401: Seminar in Cognitive Systems, UBC, 2010 (for [Lawrence Ward](http://psych.ubc.ca/persons/lawrence-ward/) and Eric Vatikiotis-Bateson)
 
-**Post-Secondary (Instructor)** 
+**Post-Secondary (Instructor)**
 
 COGS 200: Introduction to Cognitive Systems, UBC, 2011 (with [Rose-Marie Déchaine](http://linguistics.ubc.ca/persons/rose-marie-dechaine/) and [Christopher Mole](http://faculty.arts.ubc.ca/cmole/Home.html))
 
