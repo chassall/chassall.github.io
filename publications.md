@@ -4,7 +4,7 @@ title: Publications
 permalink: "/publications/"
 
 ---
-![leaves](/images/leaves.jpg)
+![Red leaves that have fallen in a stream](/images/leaves.jpg)
 
 **Journal Articles**
 
