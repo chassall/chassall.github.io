@@ -4,16 +4,8 @@ title: Resources
 permalink: "/resources/"
 
 ---
-![A small word cloud of the technology I use currently](/images/resources.jpg)
+![A small word cloud of the technology I use currently](/images/resources.jpg)[**Muse**](/resources/muse) The Muse is a portable and inexpensive EEG system.
 
-### [Muse](/resources/muse)
+[**Analyzer**](/resources/analyzer) Editing markers and exporting data.
 
-Muse is a portable and inexpensive EEG system.
-
-### [Analyzer](/resources/analyzer)
-
-Editing markers and exporting data.
-
-### [Markers](/resources/markers)
-
-Different techniques for marking EEG data, with timing tests.
+[**Markers**](/resources/markers) Different techniques for marking EEG data, with timing tests.
