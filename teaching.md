@@ -12,17 +12,17 @@ EPHE 380: Motor Control, University of Victoria, 2016-2018 (for [Olav Krigolson]
 
 EPHE 245: Motor Learning, University of Victoria, 2014-2017 (for [Olav Krigolson](http://www.olavkrigolson.com))
 
-PSYC 574A: Cognitive Methods: EEG and ERPs, University of Victoria, Fall 2016 (for [Clay Holroyd](https://www.uvic.ca/socialsciences/psychology/people/faculty-directory/holroydclay.php))
+PSYC 574A: Cognitive Methods: EEG and ERPs, University of Victoria, 2016 (for [Clay Holroyd](https://www.uvic.ca/socialsciences/psychology/people/faculty-directory/holroydclay.php))
 
 PSYO/NESC 2130: Introduction to Cognitive Psychology/Neuroscience, Dalhousie, 2014 (for [Olav Krigolson](https://www.uvic.ca/socialsciences/psychology/people/faculty-directory/holroydclay.php))
 
-SCIE 1540: Integrated Life Science, Dalhousie, Winter 2014 (for [DISP](http://disp.science.dal.ca/))
+SCIE 1540: Integrated Life Science, Dalhousie, 2014 (for [DISP](http://disp.science.dal.ca/))
 
 PSYO 2501: Statistical Methods I, Dalhousie, 2012-2013 (for [Sophie Jacques](http://www.dal.ca/faculty/science/psychology_neuroscience/faculty-staff/our-faculty/sophie-jacques.html))
 
-PSYO/NESC 2130: Introduction to Cognitive Psychology/Neuroscience, Dalhousie, Spring/Summer 2013 (for [Olav Krigolson](http://www.olavkrigolson.com))
+PSYO/NESC 2130: Introduction to Cognitive Psychology/Neuroscience, Dalhousie, 2013 (for [Olav Krigolson](http://www.olavkrigolson.com))
 
-SCIE 1540: Integrated Life Science, Dalhousie, Winter 2013 (for [DISP](http://disp.science.dal.ca/))
+SCIE 1540: Integrated Life Science, Dalhousie, 2013 (for [DISP](http://disp.science.dal.ca/))
 
 PSYO 2000: Research Methods in Experimental Psychology, Dalhousie, 2011 (for [John Christie](http://www.dal.ca/faculty/science/psychology_neuroscience/faculty-staff/our-faculty/john-christie.html) and [Simon Gadbois](http://www.gadbois.org/simon/))
 
