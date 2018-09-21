@@ -34,9 +34,9 @@ Hassall, C. D., MacLean, S., & Krigolson, O. E. (2014). Hierarchical Error Evalu
 
 Hassall, C. D., Holland, K., & Krigolson, O. E. (2013). What do I do now? An electroencephalographic investigation of the explore/exploit dilemma. _Neuroscience_, _228_, 361–370. [https://doi.org/10/f4j5r4](https://doi.org/10/gds4fc "https://doi.org/10/gds4fc")
 
-Krigolson, O. E., Hassall, C. D., Balcom, L., & Turk, D. (2013). Perceived ownership impacts reward evaluation within medial-frontal cortex. _Cognitive, Affective, & Behavioral Neuroscience_, _13_(2), 262–269. [https://doi.org/10/gd32z5](https://doi.org/10/gds4fc "https://doi.org/10/gds4fc")
+Krigolson, O. E., Hassall, C. D., Balcom, L., & Turk, D. (2013). Perceived ownership impacts reward evaluation within medial-frontal cortex. _Cognitive, Affective, & Behavioral Neuroscience_, _13_(2), 262–269. https://doi.org/10/gd32z5
 
-Krigolson, O. E., Hassall, C. D., & Handy, T. C. (2013). How We Learn to Make Decisions: Rapid Propagation of Reinforcement Learning Prediction Errors in Humans. _Journal of Cognitive Neuroscience_, _26_(3), 635–644. [https://doi.org/10/gd32z4](https://doi.org/10/gds4fc "https://doi.org/10/gds4fc")
+Krigolson, O. E., Hassall, C. D., & Handy, T. C. (2013). How We Learn to Make Decisions: Rapid Propagation of Reinforcement Learning Prediction Errors in Humans. _Journal of Cognitive Neuroscience_, _26_(3), 635–644. [https://doi.org/10/gd32z4]()
 
 **Conference Proceedings**
 
