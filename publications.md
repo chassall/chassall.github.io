@@ -10,33 +10,33 @@ permalink: "/publications/"
 
 Hassall, C. D., Connor, P. C., Trappenberg, T. P., McDonald, J. J., & Krigolson, O. E. (2018). Learning what matters: A neural explanation for the sparsity bias. _International Journal of Psychophysiology_, _127_, 62–72. [https://doi.org/10/gds4fc](https://doi.org/10/gds4fc "https://doi.org/10/gds4fc")
 
-Howse, A. D., Hassall, C. D., Williams, C. C., Hajcak, G., & Krigolson, O. E. (2018). Alcohol hangover impacts learning and reward processing within the medial-frontal cortex. _Psychophysiology_, e13081. [https://doi.org/10/gc9m49](https://doi.org/10/gds4fc "https://doi.org/10/gds4fc")
+Howse, A. D., Hassall, C. D., Williams, C. C., Hajcak, G., & Krigolson, O. E. (2018). Alcohol hangover impacts learning and reward processing within the medial-frontal cortex. _Psychophysiology_, e13081. [https://doi.org/10/gc9m49](https://doi.org/10/gc9m49 "https://doi.org/10/gc9m49")
 
-Hassall, C. D., & Williams, C. C. (2017). The Role of the Amygdala in Value-Based Learning. _The Journal of Neuroscience_, _37_(28), 6601–6602. [https://doi.org/10/gd32zx](https://doi.org/10/gds4fc "https://doi.org/10/gds4fc")
+Hassall, C. D., & Williams, C. C. (2017). The Role of the Amygdala in Value-Based Learning. _The Journal of Neuroscience_, _37_(28), 6601–6602. [https://doi.org/10/gd32zx](https://doi.org/10/gd32zx "https://doi.org/10/gd32zx")
 
-Krigolson, O. E., Williams, C. C., Norton, A., Hassall, C. D., & Colino, F. L. (2017). Choosing MUSE: Validation of a Low-Cost, Portable EEG System for ERP Research. _Frontiers in Neuroscience_, _11_. [https://doi.org/10/gd32zw](https://doi.org/10/gds4fc "https://doi.org/10/gds4fc")
+Krigolson, O. E., Williams, C. C., Norton, A., Hassall, C. D., & Colino, F. L. (2017). Choosing MUSE: Validation of a Low-Cost, Portable EEG System for ERP Research. _Frontiers in Neuroscience_, _11_. [https://doi.org/10/gd32zw](https://doi.org/10/gd32zw "https://doi.org/10/gd32zw")
 
-Williams, C. C., Hassall, C. D., Trska, R., Holroyd, C. B., & Krigolson, O. E. (2017). When theory and biology differ: The relationship between reward prediction errors and expectancy. _Biological Psychology_, _129_(Supplement C), 265–272. [https://doi.org/10/gdk3ph](https://doi.org/10/gds4fc "https://doi.org/10/gds4fc")
+Williams, C. C., Hassall, C. D., Trska, R., Holroyd, C. B., & Krigolson, O. E. (2017). When theory and biology differ: The relationship between reward prediction errors and expectancy. _Biological Psychology_, _129_(Supplement C), 265–272. [https://doi.org/10/gdk3ph](https://doi.org/10/gdk3ph "https://doi.org/10/gdk3ph")
 
-Hassall, C. D., Quinlan, C. K., Turk, D. J., Taylor, T. L., & Krigolson, O. E. (2016). A preliminary investigation into the neural basis of the production effect. _Canadian Journal of Experimental Psychology/Revue Canadienne de Psychologie Expérimentale_, _70_(2), 139–146. [https://doi.org/10/f8sqbc](https://doi.org/10/gds4fc "https://doi.org/10/gds4fc")
+Hassall, C. D., Quinlan, C. K., Turk, D. J., Taylor, T. L., & Krigolson, O. E. (2016). A preliminary investigation into the neural basis of the production effect. _Canadian Journal of Experimental Psychology/Revue Canadienne de Psychologie Expérimentale_, _70_(2), 139–146. [https://doi.org/10/f8sqbc](https://doi.org/10/f8sqbc "https://doi.org/10/f8sqbc")
 
-Hassall, C. D., Silver, A., Turk, D. J., & Krigolson, O. E. (2016). We are more selfish than we think: The endowment effect and reward processing within the human medial-frontal cortex. _The Quarterly Journal of Experimental Psychology_, _69_(9), 1676–1686. [https://doi.org/10/gd32zz](https://doi.org/10/gds4fc "https://doi.org/10/gds4fc")
+Hassall, C. D., Silver, A., Turk, D. J., & Krigolson, O. E. (2016). We are more selfish than we think: The endowment effect and reward processing within the human medial-frontal cortex. _The Quarterly Journal of Experimental Psychology_, _69_(9), 1676–1686. [https://doi.org/10/gd32zz](https://doi.org/10/gd32zz "https://doi.org/10/gd32zz")
 
-Heath, M., Hassall, C. D., MacLean, S., & Krigolson, O. E. (2015). Event-related brain potentials during the visuomotor mental rotation task: The contingent negative variation scales to angle of rotation. _Neuroscience_, _311_, 153–165. [https://doi.org/10/f73f7r](https://doi.org/10/gds4fc "https://doi.org/10/gds4fc")
+Heath, M., Hassall, C. D., MacLean, S., & Krigolson, O. E. (2015). Event-related brain potentials during the visuomotor mental rotation task: The contingent negative variation scales to angle of rotation. _Neuroscience_, _311_, 153–165. [https://doi.org/10/f73f7r](https://doi.org/10/f73f7r "https://doi.org/10/f73f7r")
 
-Krigolson, O. E., Hassall, C. D., Satel, J., & Klein, R. M. (2015). The impact of cognitive load on reward evaluation. _Brain Research_, _1627_, 225–232. [https://doi.org/10/f73g6q](https://doi.org/10/gds4fc "https://doi.org/10/gds4fc")
+Krigolson, O. E., Hassall, C. D., Satel, J., & Klein, R. M. (2015). The impact of cognitive load on reward evaluation. _Brain Research_, _1627_, 225–232. [https://doi.org/10/f73g6q](https://doi.org/10/f73g6q "https://doi.org/10/f73g6q")
 
-MacLean, S. J., Hassall, C. D., Ishigami, Y., Krigolson, O. E., & Eskes, G. A. (2015). Using brain potentials to understand prism adaptation: the error-related negativity and the P300. _Frontiers in Human Neuroscience_, _9_. [https://doi.org/10/gd32z2](https://doi.org/10/gds4fc "https://doi.org/10/gds4fc")
+MacLean, S. J., Hassall, C. D., Ishigami, Y., Krigolson, O. E., & Eskes, G. A. (2015). Using brain potentials to understand prism adaptation: the error-related negativity and the P300. _Frontiers in Human Neuroscience_, _9_. [https://doi.org/10/gd32z2](https://doi.org/10/gd32z2 "https://doi.org/10/gd32z2")
 
-Weiler, J., Hassall, C. D., Krigolson, O. E., & Heath, M. (2015). The unidirectional prosaccade switch-cost: Electroencephalographic evidence of task-set inertia in oculomotor control. _Behavioural Brain Research_, _278_, 323–329. [https://doi.org/10/f6v59v](https://doi.org/10/gds4fc "https://doi.org/10/gds4fc")
+Weiler, J., Hassall, C. D., Krigolson, O. E., & Heath, M. (2015). The unidirectional prosaccade switch-cost: Electroencephalographic evidence of task-set inertia in oculomotor control. _Behavioural Brain Research_, _278_, 323–329. [https://doi.org/10/f6v59v](https://doi.org/10/f6v59v "https://doi.org/10/f6v59v")
 
-Hassall, C. D., MacLean, S., & Krigolson, O. E. (2014). Hierarchical Error Evaluation: The Role of Medial-Frontal Cortex in Postural Control. _Journal of Motor Behavior_, _46_(6), 381–387. [https://doi.org/10/gd32z3](https://doi.org/10/gds4fc "https://doi.org/10/gds4fc")
+Hassall, C. D., MacLean, S., & Krigolson, O. E. (2014). Hierarchical Error Evaluation: The Role of Medial-Frontal Cortex in Postural Control. _Journal of Motor Behavior_, _46_(6), 381–387. [https://doi.org/10/gd32z3](https://doi.org/10/gd32z3 "https://doi.org/10/gd32z3")
 
-Hassall, C. D., Holland, K., & Krigolson, O. E. (2013). What do I do now? An electroencephalographic investigation of the explore/exploit dilemma. _Neuroscience_, _228_, 361–370. [https://doi.org/10/f4j5r4](https://doi.org/10/gds4fc "https://doi.org/10/gds4fc")
+Hassall, C. D., Holland, K., & Krigolson, O. E. (2013). What do I do now? An electroencephalographic investigation of the explore/exploit dilemma. _Neuroscience_, _228_, 361–370. [https://doi.org/10/f4j5r4](https://doi.org/10/f4j5r4 "https://doi.org/10/f4j5r4")
 
-Krigolson, O. E., Hassall, C. D., Balcom, L., & Turk, D. (2013). Perceived ownership impacts reward evaluation within medial-frontal cortex. _Cognitive, Affective, & Behavioral Neuroscience_, _13_(2), 262–269. https://doi.org/10/gd32z5
+Krigolson, O. E., Hassall, C. D., Balcom, L., & Turk, D. (2013). Perceived ownership impacts reward evaluation within medial-frontal cortex. _Cognitive, Affective, & Behavioral Neuroscience_, _13_(2), 262–269. [https://doi.org/10/gd32z5](https://doi.org/10/gd32z5 "https://doi.org/10/gd32z5")
 
-Krigolson, O. E., Hassall, C. D., & Handy, T. C. (2013). How We Learn to Make Decisions: Rapid Propagation of Reinforcement Learning Prediction Errors in Humans. _Journal of Cognitive Neuroscience_, _26_(3), 635–644. [https://doi.org/10/gd32z4]()
+Krigolson, O. E., Hassall, C. D., & Handy, T. C. (2013). How We Learn to Make Decisions: Rapid Propagation of Reinforcement Learning Prediction Errors in Humans. _Journal of Cognitive Neuroscience_, _26_(3), 635–644. [https://doi.org/10/gd32z4](https://doi.org/10/gd32z4 "https://doi.org/10/gd32z4")
 
 **Conference Proceedings**
 
