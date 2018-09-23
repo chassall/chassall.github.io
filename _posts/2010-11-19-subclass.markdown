@@ -1,0 +1,20 @@
+---
+layout: post
+title: "SUBC:LASS"
+---
+![A few musical and tech-looking things](/images/subclassbanner.jpg)
+In 2010 I took part in a new seminar offered through the UBC School of Music and directed by Bob Pritchard, Keith Hamel, and Nicolas d'Alessandro called [SUBCLASS](https://ubcsubclass2016.wordpress.com/) (Sonic UBC Laptop Sounds and Sensors). SUBCLASS is UBC's *laptop orchestra*. What is a laptop orchestra? In the words of Dr. Bob:
+
+>We create software and hardware to track gestures of musicians and dancers, and use the resulting data to control audio and video processing in performance.
+
+Our work led to two performances, held at the UBC Recital Hall:
+
+I'm Nobody, written and performed by Keith Hamel, Cameron Hassall, and Farshid Samandari. November 19, 2010, UBC Recital Hall. ([video](https://vimeo.com/17662796))
+
+ChromaHack, written and performed by David Dorrington, Martin Ritter, Johnty Wang, Bob Pritchard. November 19, 2010, UBC Recital Hall. ([video](https://vimeo.com/17661872))
+
+What did I learn?
+---
+* Coming up with a new musical interface is hard
+* Performance is challenging but fun
+* Engineers can learn music and musicians can learn engineering
