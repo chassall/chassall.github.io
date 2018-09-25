@@ -1,7 +1,6 @@
 ---
 layout: post
 title: How We Learn to Make Decisions
-
 ---
 ![ERPs and model predictions](/images/hwmd.png)
 
@@ -13,7 +12,7 @@ Krigolson, O. E., Hassall, C. D., & Handy, T. C. (2013). How We Learn to Make De
 
 The main idea of the paper is that humans learn via a computational process called reinforcement learning (RL). According to RL, rewarded actions tend to be repeated - a process that can happen very quickly in humans. Here, participants learned which of two slot machines yield a reward. Initially, reward was unexpected, and thus elicited a _prediction error_ - a difference in value between the predicted outcome and the actual outcome. This neural learning signal diminished for subsequent rewards. Our critical finding was that predictive cues - which preceded both actions and outcomes - also elicited prediction errors, but only after learning had occurred. This observation is consistent with single-cell recordings in monkeys, e.g. Schultz, Dayan, & Montague, 1997. Finally, we showed that prediction errors to rewards and cues change over time as predicted by a computational model.
 
-## What did I learn?
+## What did I learn? ##
 
 * Don't be afraid to talk to your instructors
 * Even simple models can be challenging to tune
