@@ -8,6 +8,12 @@ permalink: "/publications/"
 
 **Journal Articles**
 
+Hassall, C.D., Hajcak, G., and Krigolson, O.E. (submitted). The importance of agency in human reward processing.
+
+Williams, C.C., Kappen, M., Hassall, C.D., and Krigolson, O.E. (submitted). Thinking, theta and alpha: Mechanisms of cognitive control and attention.
+
+Colino, F.L., Williams, C.C., Luehr, S.J.C., Fisher, S., McCulloch, R., Hassall, C.D., Binsted, G., and Krigolson, O.E. (submitted). The impact of wellness on neural learning systems.
+
 Hassall, C. D., Connor, P. C., Trappenberg, T. P., McDonald, J. J., & Krigolson, O. E. (2018). Learning what matters: A neural explanation for the sparsity bias. _International Journal of Psychophysiology_, _127_, 62–72. [https://doi.org/10/gds4fc](https://doi.org/10/gds4fc "https://doi.org/10/gds4fc")
 
 Howse, A. D., Hassall, C. D., Williams, C. C., Hajcak, G., & Krigolson, O. E. (2018). Alcohol hangover impacts learning and reward processing within the medial-frontal cortex. _Psychophysiology_, e13081. [https://doi.org/10/gc9m49](https://doi.org/10/gc9m49 "https://doi.org/10/gc9m49")
