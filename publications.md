@@ -10,7 +10,7 @@ permalink: "/publications/"
 
 Hassall, C.D., Hajcak, G., and Krigolson, O.E. (submitted). The importance of agency in human reward processing.
 
-Williams, C.C., Kappen, M., Hassall, C.D., and Krigolson, O.E. (submitted). Thinking, theta and alpha: Mechanisms of cognitive control and attention.
+Williams, C.C., Kappen, M., Hassall, C.D., and Krigolson, O.E. (in press). Thinking, theta and alpha: Mechanisms of intuitive and analytical reasoning. _Neuroimage._
 
 Colino, F.L., Williams, C.C., Luehr, S.J.C., Fisher, S., McCulloch, R., Hassall, C.D., Binsted, G., and Krigolson, O.E. (submitted). The impact of wellness on neural learning systems.
 
