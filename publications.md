@@ -8,11 +8,13 @@ permalink: "/publications/"
 
 **Journal Articles**
 
+Colino, F.L., Williams, C.C., Hassall, C.D., Binsted, G., and Krigolson, O.E. (submitted). The impact of wellness on neural learning systems.
+
+Hassall, C.D., McDonald, C.G., & Kriglson, O.E. (submitted). Ready, set, explore! Event-related potentials reveal the time-course of exploratory decisions.
+
 Hassall, C.D., Hajcak, G., and Krigolson, O.E. (submitted). The importance of agency in human reward processing.
 
-Colino, F.L., Williams, C.C., Luehr, S.J.C., Fisher, S., McCulloch, R., Hassall, C.D., Binsted, G., and Krigolson, O.E. (submitted). The impact of wellness on neural learning systems.
-
-Williams, C.C., Kappen, M., Hassall, C.D., and Krigolson, O.E. (in press). Thinking, theta and alpha: Mechanisms of intuitive and analytical reasoning. _Neuroimage._
+Williams, C. C., Kappen, M., Hassall, C. D., Wright, B., & Krigolson, O. E. (2019). Thinking theta and alpha: Mechanisms of intuitive and analytical reasoning. _NeuroImage_, _189_, 574–580. [https://doi.org/10/gfvqxw](https://doi.org/10/gfvqxw "https://doi.org/10/gfvqxw")
 
 Hassall, C. D., Connor, P. C., Trappenberg, T. P., McDonald, J. J., & Krigolson, O. E. (2018). Learning what matters: A neural explanation for the sparsity bias. _International Journal of Psychophysiology_, _127_, 62–72. [https://doi.org/10/gds4fc](https://doi.org/10/gds4fc "https://doi.org/10/gds4fc")
 
