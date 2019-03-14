@@ -8,6 +8,8 @@ permalink: "/publications/"
 
 **Journal Articles**
 
+Williams, C.C., Hassall, C.D., Lindenbach, T., and Krigolson, O.E. (submitted). Neural signals of reinforcement learning lead to changes in behaviour: Trial-by-trial analyses of computational models and electroencephalography.
+
 Colino, F.L., Williams, C.C., Hassall, C.D., Binsted, G., and Krigolson, O.E. (submitted). The impact of wellness on neural learning systems.
 
 Hassall, C.D., McDonald, C.G., & Kriglson, O.E. (submitted). Ready, set, explore! Event-related potentials reveal the time-course of exploratory decisions.
@@ -106,7 +108,7 @@ Hassall, C.D., Williams, C.C., & Krigolson, O.E. (2016). Good, better, best: Ele
 
 Hassall, C.D., Eskes, G.A., & Krigolson, O.E. (2016). The impact of aging on high-level postural feedback processing. Poster presented at the Cognitive Neuroscience Society (CNS) Annual Meeting, New York, NY.
 
-Hassall, C.D., & Krigolson, O.E. (2015). From alpha to theta: Reward distribution knowledge impacts decision making knowledge. Poster presented at the Fifty-Fifth Annual Meeting of the Society for Psychophysiological Research (SPR), Seattle, WA.
+Hassall, C.D., & Krigolson, O.E. (2015). From alpha to theta: Reward distribution knowledge impacts decision making style. Poster presented at the Fifty-Fifth Annual Meeting of the Society for Psychophysiological Research (SPR), Seattle, WA.
 
 Howse, A., Hassall, C.D., & Krigolson, O.E. (2015). Alcohol hangover impacts reward processing within the medial-frontal cortex. Poster presented at the Fifty-Fifth Annual Meeting of the Society for Psychophysiological Research (SPR), Seattle, WA.
 
