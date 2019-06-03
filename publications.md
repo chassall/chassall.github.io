@@ -92,6 +92,8 @@ Hassall, C.D., Holland, K., Pleskac, T.J., and Krigolson, O.E.  (2012). What do 
 
 **Poster Presentations**
 
+Hassall, C.D., McDonald, C.G., & Krigolson, O.E. (2019). Decisions to explore are preceded by neural interruption and response conflict. Poster presented at the Cognitive Neuroscience Society (CNS) Annual Meeting, San Francisco, CA.
+
 Hassall, C.D., Hajcak, G, & Krigolson, O.E. (2018). The role of action, choice, and predictive cues in human reinforcement learning. Poster presented at the Cognitive Neuroscience Society (CNS) Annual Meeting, Boston, MA.
 
 Kapen, M., Hassall, C.D., and Krigolson, O.E. (2018). Neural Representations of Risk and Ambiguity. Poster presented at the Northwest Cognition and Memory (NOWCAM) Annual Meeting, Richmond, BC.
