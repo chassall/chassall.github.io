@@ -12,9 +12,9 @@ Williams, C.C., Hassall, C.D., Lindenbach, T., and Krigolson, O.E. (submitted). 
 
 Colino, F.L., Williams, C.C., Hassall, C.D., Binsted, G., and Krigolson, O.E. (submitted). The impact of wellness on neural learning systems.
 
-Hassall, C.D., McDonald, C.G., & Kriglson, O.E. (submitted). Ready, set, explore! Event-related potentials reveal the time-course of exploratory decisions.
+Hassall, C.D., McDonald, C.G., & Kriglson, O.E. (in press). Ready, set, explore! Event-related potentials reveal the time-course of exploratory decisions. _Brain Research_. [https://doi.org/10/gf3d7b](https://doi.org/10/gf3d7b "https://doi.org/10/gf3d7b")
 
-Hassall, C.D., Hajcak, G., and Krigolson, O.E. (submitted). The importance of agency in human reward processing.
+Hassall, C.D., Hajcak, G., and Krigolson, O.E. (in press). The importance of agency in human reward processing._Cognitive, Affective, and Behavioral Neuroscience_.
 
 Williams, C. C., Kappen, M., Hassall, C. D., Wright, B., & Krigolson, O. E. (2019). Thinking theta and alpha: Mechanisms of intuitive and analytical reasoning. _NeuroImage_, _189_, 574–580. [https://doi.org/10/gfvqxw](https://doi.org/10/gfvqxw "https://doi.org/10/gfvqxw")
 
