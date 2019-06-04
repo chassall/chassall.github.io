@@ -8,6 +8,8 @@ permalink: "/publications/"
 
 **Journal Articles**
 
+Colino, F.L., Heath, M., Hassall, C.D., and Krigolson, O.E. (submitted). Electroencephalographic evidence for a reinforcement learning advantage during motor skill acquisition.
+
 Williams, C.C., Hassall, C.D., Lindenbach, T., and Krigolson, O.E. (submitted). Neural signals of reinforcement learning lead to changes in behaviour: Trial-by-trial analyses of computational models and electroencephalography.
 
 Colino, F.L., Williams, C.C., Hassall, C.D., Binsted, G., and Krigolson, O.E. (submitted). The impact of wellness on neural learning systems.
