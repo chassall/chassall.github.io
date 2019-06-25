@@ -16,7 +16,7 @@ Colino, F.L., Williams, C.C., Hassall, C.D., Binsted, G., and Krigolson, O.E. (s
 
 Hassall, C. D., Hajcak, G., & Krigolson, O. E. (2019). The importance of agency in human reward processing. _Cognitive, Affective, & Behavioral Neuroscience_. [https://doi.org/10/gf3tgc](https://doi.org/10/gf3tgc "https://doi.org/10/gf3tgc")
 
-Hassall, C.D., McDonald, C.G., & Kriglson, O.E. (2019). Ready, set, explore! Event-related potentials reveal the time-course of exploratory decisions. _Brain Research_. [https://doi.org/10/gf3d7b](https://doi.org/10/gf3d7b "https://doi.org/10/gf3d7b")
+Hassall, C. D., McDonald, C. G., & Krigolson, O. E. (2019). Ready, set, explore! Event-related potentials reveal the time-course of exploratory decisions. _Brain Research_, _1719_, 183–193. [https://doi.org/10/gf3d7b](https://doi.org/10/gf3d7b "https://doi.org/10/gf3d7b")
 
 Williams, C. C., Kappen, M., Hassall, C. D., Wright, B., & Krigolson, O. E. (2019). Thinking theta and alpha: Mechanisms of intuitive and analytical reasoning. _NeuroImage_, _189_, 574–580. [https://doi.org/10/gfvqxw](https://doi.org/10/gfvqxw "https://doi.org/10/gfvqxw")
 
