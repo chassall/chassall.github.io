@@ -8,6 +8,8 @@ permalink: "/publications/"
 
 **Journal Articles**
 
+Hassall, C.D., and Krigolson, O.E. (submitted). Feedback processing is enhanced following exploration in continuous environments
+
 Hassall, C.D, Ferguson, T.D., and Krigolson, O.E. (submitted). Feedback processing depends on rate of exploration.
 
 Colino, F.L., Heath, M., Hassall, C.D., and Krigolson, O.E. (submitted). Electroencephalographic evidence for a reinforcement learning advantage during motor skill acquisition.
