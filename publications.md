@@ -8,7 +8,9 @@ permalink: "/publications/"
 
 **Journal Articles**
 
-Hassall, C.D., and Krigolson, O.E. (submitted). Feedback processing is enhanced following exploration in continuous environments
+Williams, C.D., Ferguson, T.D., Hassall, C.D., Wright, B., and Krigolson, O.E. (submitted). Dissociated Neural Signals of Conflict and Uncertainty Engage Cognitive Control.
+
+Hassall, C.D., and Krigolson, O.E. (submitted). Feedback processing is enhanced following exploration in continuous environments.
 
 Hassall, C.D, Ferguson, T.D., and Krigolson, O.E. (submitted). Feedback processing depends on rate of exploration.
 
