@@ -16,9 +16,9 @@ Hassall, C.D, Ferguson, T.D., and Krigolson, O.E. (submitted). Feedback processi
 
 Colino, F.L., Heath, M., Hassall, C.D., and Krigolson, O.E. (submitted). Electroencephalographic evidence for a reinforcement learning advantage during motor skill acquisition.
 
-Williams, C.C., Hassall, C.D., Lindenbach, T., and Krigolson, O.E. (submitted). Neural signals of reinforcement learning lead to changes in behaviour: Trial-by-trial analyses of computational models and electroencephalography.
+Williams, C.C., Hassall, C.D., Lindenbach, T., and Krigolson, O.E. (in press). Neural signals of reinforcement learning lead to changes in behaviour: Trial-by-trial analyses of computational models and electroencephalography. _Computational Brain & Behavior._
 
-Colino, F.L., Williams, C.C., Hassall, C.D., Binsted, G., and Krigolson, O.E. (submitted). The impact of wellness on neural learning systems.
+Colino, F.L., Williams, C.C., Hassall, C.D., Binsted, G., and Krigolson, O.E. (in press). The impact of wellness on neural learning systems. _Neuroscience Letters_.
 
 Hassall, C. D., Hajcak, G., & Krigolson, O. E. (2019). The importance of agency in human reward processing. _Cognitive, Affective, & Behavioral Neuroscience_. [https://doi.org/10/gf3tgc](https://doi.org/10/gf3tgc "https://doi.org/10/gf3tgc")
 
