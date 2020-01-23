@@ -16,7 +16,7 @@ Williams, C.D., Ferguson, T.D., Hassall, C.D., Wright, B., and Krigolson, O.E. (
 
 Hassall, C.D., and Krigolson, O.E. (submitted). Feedback processing is enhanced following exploration in continuous environments.
 
-Colino, F.L., Heath, M., Hassall, C.D., and Krigolson, O.E. (in revision). Electroencephalographic evidence for a reinforcement learning advantage during motor skill acquisition.
+Colino, F.L., Heath, M., Hassall, C.D., and Krigolson, O.E. (in press). Electroencephalographic evidence for a reinforcement learning advantage during motor skill acquisition. _Biological Psychology._
 
 Williams, C.C., Hassall, C.D., Lindenbach, T., and Krigolson, O.E. (in press). Neural signals of reinforcement learning lead to changes in behaviour: Trial-by-trial analyses of computational models and electroencephalography. _Computational Brain & Behavior._
 
