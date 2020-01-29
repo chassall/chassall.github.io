@@ -16,11 +16,11 @@ Williams, C.D., Ferguson, T.D., Hassall, C.D., Wright, B., and Krigolson, O.E. (
 
 Hassall, C.D., and Krigolson, O.E. (submitted). Feedback processing is enhanced following exploration in continuous environments.
 
-Colino, F.L., Heath, M., Hassall, C.D., and Krigolson, O.E. (in press). Electroencephalographic evidence for a reinforcement learning advantage during motor skill acquisition. _Biological Psychology._
+Colino, F. L., Heath, M., Hassall, C. D., & Krigolson, O. E. (2020). Electroencephalographic evidence for a reinforcement learning advantage during motor skill acquisition. _Biological Psychology_, _151_, 107849. [https://doi.org/10.1016/j.biopsycho.2020.107849](https://doi.org/10.1016/j.biopsycho.2020.107849 "https://doi.org/10.1016/j.biopsycho.2020.107849")
 
-Williams, C.C., Hassall, C.D., Lindenbach, T., and Krigolson, O.E. (in press). Neural signals of reinforcement learning lead to changes in behaviour: Trial-by-trial analyses of computational models and electroencephalography. _Computational Brain & Behavior._
+Colino, F. L., Williams, C. C., Hassall, C. D., Binsted, G., & Krigolson, O. E. (2020). The impact of wellness on neural learning systems. _Neuroscience Letters_, _714_, 134537. [https://doi.org/10.1016/j.neulet.2019.134537](https://doi.org/10.1016/j.neulet.2019.134537 "https://doi.org/10.1016/j.neulet.2019.134537")
 
-Colino, F.L., Williams, C.C., Hassall, C.D., Binsted, G., and Krigolson, O.E. (in press). The impact of wellness on neural learning systems. _Neuroscience Letters_.
+Williams, C. C., Hassall, C. D., Lindenbach, T., & Krigolson, O. E. (2019). Reward Prediction Errors Reflect an Underlying Learning Process That Parallels Behavioural Adaptations: A Trial-to-Trial Analysis. _Computational Brain & Behavior_. [https://doi.org/10.1007/s42113-019-00069-4](https://doi.org/10.1007/s42113-019-00069-4 "https://doi.org/10.1007/s42113-019-00069-4")
 
 Hassall, C. D., Hajcak, G., & Krigolson, O. E. (2019). The importance of agency in human reward processing. _Cognitive, Affective, & Behavioral Neuroscience_. [https://doi.org/10/gf3tgc](https://doi.org/10/gf3tgc "https://doi.org/10/gf3tgc")
 
