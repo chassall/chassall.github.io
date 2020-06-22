@@ -14,7 +14,7 @@ Williams, C.C., Ferguson, T.D., Hassall, C.D., Abimbola, W., and Krigolson, O.E.
 
 Williams, C.D., Ferguson, T.D., Hassall, C.D., Wright, B., and Krigolson, O.E. (submitted). Dissociated Neural Signals of Conflict and Uncertainty Engage Cognitive Control.
 
-Hassall, C.D., and Krigolson, O.E. (submitted). Feedback processing is enhanced following exploration in continuous environments.
+Hassall, C. D., & Krigolson, O. E. (2020). Feedback processing is enhanced following exploration in continuous environments. _Neuropsychologia_, 107538. [https://doi.org/10.1016/j.neuropsychologia.2020.107538](https://doi.org/10.1016/j.neuropsychologia.2020.107538 "https://doi.org/10.1016/j.neuropsychologia.2020.107538")
 
 Colino, F. L., Heath, M., Hassall, C. D., & Krigolson, O. E. (2020). Electroencephalographic evidence for a reinforcement learning advantage during motor skill acquisition. _Biological Psychology_, _151_, 107849. [https://doi.org/10.1016/j.biopsycho.2020.107849](https://doi.org/10.1016/j.biopsycho.2020.107849 "https://doi.org/10.1016/j.biopsycho.2020.107849")
 
