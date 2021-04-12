@@ -8,6 +8,12 @@ permalink: "/publications/"
 
 **Journal Articles**
 
+Abubshait, A., Beatty, P. J., McDonald, C. G., Hassall, C. D., Krigolson, O. E., & Wiese, E. (2021). A win-win situation: Does familiarity with a social robot modulate feedback monitoring and learning? _Cognitive, Affective, & Behavioral Neuroscience_. [https://doi.org/10.3758/s13415-021-00895-9](https://doi.org/10.3758/s13415-021-00895-9 "https://doi.org/10.3758/s13415-021-00895-9")
+
+Williams, C. C., Ferguson, T. D., Hassall, C. D., Abimbola, W., & Krigolson, O. E. (2021). The ERP, frequency, and time–frequency correlates of feedback processing: Insights from a large sample study. _Psychophysiology_, _n/a_(n/a), e13722. [https://doi.org/10.1111/psyp.13722](https://doi.org/10.1016/j.neuropsychologia.2021.107793 "https://doi.org/10.1016/j.neuropsychologia.2021.107793")
+
+Williams, C. C., Ferguson, T. D., Hassall, C. D., Wright, B., & Krigolson, O. E. (2021). Dissociated neural signals of conflict and surprise in effortful decision Making: Theta activity reflects surprise while alpha and beta activity reflect conflict. _Neuropsychologia_, _155_, 107793. [https://doi.org/10.1016/j.neuropsychologia.2021.107793](https://doi.org/10.1016/j.neuropsychologia.2021.107793 "https://doi.org/10.1016/j.neuropsychologia.2021.107793")
+
 Hassall, C. D., & Krigolson, O. E. (2020). Feedback processing is enhanced following exploration in continuous environments. _Neuropsychologia_, 107538. [https://doi.org/10.1016/j.neuropsychologia.2020.107538](https://doi.org/10.1016/j.neuropsychologia.2020.107538 "https://doi.org/10.1016/j.neuropsychologia.2020.107538")
 
 Colino, F. L., Heath, M., Hassall, C. D., & Krigolson, O. E. (2020). Electroencephalographic evidence for a reinforcement learning advantage during motor skill acquisition. _Biological Psychology_, _151_, 107849. [https://doi.org/10.1016/j.biopsycho.2020.107849](https://doi.org/10.1016/j.biopsycho.2020.107849 "https://doi.org/10.1016/j.biopsycho.2020.107849")
