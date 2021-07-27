@@ -8,6 +8,8 @@ permalink: "/publications/"
 
 **Journal Articles**
 
+Redden, R. S., Gagliardi, G., Williams, C., Hassall, C. D., & Krigolson, O. (in press). Champ versus Chump: Viewing an Opponent’s Face Engages Attention but Not Reward Systems. _Games_. [https://psyarxiv.com/mk56x](https://psyarxiv.com/mk56x "https://psyarxiv.com/mk56x")
+
 Abubshait, A., Beatty, P. J., McDonald, C. G., Hassall, C. D., Krigolson, O. E., & Wiese, E. (2021). A win-win situation: Does familiarity with a social robot modulate feedback monitoring and learning? _Cognitive, Affective, & Behavioral Neuroscience_. [https://doi.org/10.3758/s13415-021-00895-9](https://doi.org/10.3758/s13415-021-00895-9 "https://doi.org/10.3758/s13415-021-00895-9")
 
 Williams, C. C., Ferguson, T. D., Hassall, C. D., Abimbola, W., & Krigolson, O. E. (2021). The ERP, frequency, and time–frequency correlates of feedback processing: Insights from a large sample study. _Psychophysiology_, _58_(2), e13722. [https://doi.org/10.1111/psyp.13722](https://doi.org/10.1111/psyp.13722 "https://doi.org/10.1111/psyp.13722")
