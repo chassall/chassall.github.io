@@ -8,7 +8,7 @@ permalink: "/publications/"
 
 **Journal Articles**
 
-Redden, R. S., Gagliardi, G., Williams, C., Hassall, C. D., & Krigolson, O. (in press). Champ versus Chump: Viewing an Opponent’s Face Engages Attention but Not Reward Systems. _Games_. [https://psyarxiv.com/mk56x](https://psyarxiv.com/mk56x "https://psyarxiv.com/mk56x")
+Redden, R. S., Gagliardi, G. A., Williams, C. C., Hassall, C. D., & Krigolson, O. E. (2021). Champ versus Chump: Viewing an Opponent’s Face Engages Attention but Not Reward Systems. _Games_, _12_(3), 62. [https://doi.org/10.3390/g12030062](https://doi.org/10.3390/g12030062 "https://doi.org/10.3390/g12030062")
 
 Abubshait, A., Beatty, P. J., McDonald, C. G., Hassall, C. D., Krigolson, O. E., & Wiese, E. (2021). A win-win situation: Does familiarity with a social robot modulate feedback monitoring and learning? _Cognitive, Affective, & Behavioral Neuroscience_. [https://doi.org/10.3758/s13415-021-00895-9](https://doi.org/10.3758/s13415-021-00895-9 "https://doi.org/10.3758/s13415-021-00895-9")
 
