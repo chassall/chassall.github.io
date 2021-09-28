@@ -8,6 +8,8 @@ permalink: "/publications/"
 
 **Journal Articles**
 
+Manning, C., Hassall, C. D., Laurence, T. H., Norcia, A. M., Wagenmakers, E.-J., Snowling, M. J., Scerif, G., & Evans, N. J. (in press). Visual motion and decision-making in dyslexia: Evidence of reduced accumulation of sensory evidence and related neural dynamics. _The Journal of Neuroscience_.
+
 Redden, R. S., Gagliardi, G. A., Williams, C. C., Hassall, C. D., & Krigolson, O. E. (2021). Champ versus Chump: Viewing an Opponent’s Face Engages Attention but Not Reward Systems. _Games_, _12_(3), 62. [https://doi.org/10.3390/g12030062](https://doi.org/10.3390/g12030062 "https://doi.org/10.3390/g12030062")
 
 Abubshait, A., Beatty, P. J., McDonald, C. G., Hassall, C. D., Krigolson, O. E., & Wiese, E. (2021). A win-win situation: Does familiarity with a social robot modulate feedback monitoring and learning? _Cognitive, Affective, & Behavioral Neuroscience_. [https://doi.org/10.3758/s13415-021-00895-9](https://doi.org/10.3758/s13415-021-00895-9 "https://doi.org/10.3758/s13415-021-00895-9")
@@ -59,6 +61,14 @@ Hassall, C. D., Holland, K., & Krigolson, O. E. (2013). What do I do now? An ele
 Krigolson, O. E., Hassall, C. D., Balcom, L., & Turk, D. (2013). Perceived ownership impacts reward evaluation within medial-frontal cortex. _Cognitive, Affective, & Behavioral Neuroscience_, _13_(2), 262–269. [https://doi.org/10/gd32z5](https://doi.org/10/gd32z5 "https://doi.org/10/gd32z5")
 
 Krigolson, O. E., Hassall, C. D., & Handy, T. C. (2013). How We Learn to Make Decisions: Rapid Propagation of Reinforcement Learning Prediction Errors in Humans. _Journal of Cognitive Neuroscience_, _26_(3), 635–644. [https://doi.org/10/gd32z4](https://doi.org/10/gd32z4 "https://doi.org/10/gd32z4")
+
+**Preprints**
+
+Hassall, C. D., & Holroyd, C. B. (2021). Task-level value affects trial-level reward processing and control. _BioRxiv_, 2021.09.16.460600. [https://www.biorxiv.org/content/10.1101/2021.09.16.460600v1](https://www.biorxiv.org/content/10.1101/2021.09.16.460600v1 "https://www.biorxiv.org/content/10.1101/2021.09.16.460600v1")
+
+Hassall, C. D., Harley, J., Kolling, N., & Hunt, L. T. (2021). Temporal Scaling of Human Scalp-Recorded Potentials. _BioRxiv_, 2020.12.11.421180. [https://www.biorxiv.org/content/10.1101/2020.12.11.421180v6](https://www.biorxiv.org/content/10.1101/2020.12.11.421180v6 "https://www.biorxiv.org/content/10.1101/2020.12.11.421180v6")
+
+Manning, C., Hassall, C. D., Hunt, L., Norcia, A., Wagenmakers, E.-J., Evans, N. J., & Scerif, G. (2021). Behavioural and neural indices of perceptual decision-making in autistic children during visual motion tasks. _PsyArXiv_. [https://doi.org/10.31234/osf.io/s5r3m](https://doi.org/10.31234/osf.io/s5r3m "https://doi.org/10.31234/osf.io/s5r3m")
 
 **Conference Proceedings**
 
