@@ -8,6 +8,8 @@ permalink: "/publications/"
 
 **Journal Articles**
 
+Manning, C., Hassall, C. D., Hunt, L., Norcia, A., Wagenmakers, E.-J., Evans, N. J., & Scerif, G. (in press). Behavioural and neural indices of perceptual decision-making in autistic children during visual motion tasks. _Scientific Reports_.
+
 Manning, C., Hassall, C. D., Hunt, L. T., Norcia, A. M., Wagenmakers, E.-J., Snowling, M. J., Scerif, G., & Evans, N. J. (2022). Visual Motion and Decision-Making in Dyslexia: Reduced Accumulation of Sensory Evidence and Related Neural Dynamics. _Journal of Neuroscience_, _42_(1), 121–134. [https://doi.org/10.1523/JNEUROSCI.1232-21.2021](https://doi.org/10.1523/JNEUROSCI.1232-21.2021 "https://doi.org/10.1523/JNEUROSCI.1232-21.2021")
 
 Redden, R. S., Gagliardi, G. A., Williams, C. C., Hassall, C. D., & Krigolson, O. E. (2021). Champ versus Chump: Viewing an Opponent’s Face Engages Attention but Not Reward Systems. _Games_, _12_(3), 62. [https://doi.org/10.3390/g12030062](https://doi.org/10.3390/g12030062 "https://doi.org/10.3390/g12030062")
