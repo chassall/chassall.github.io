@@ -8,7 +8,7 @@ permalink: "/publications/"
 
 **Journal Articles**
 
-Manning, C., Hassall, C. D., Hunt, L., Norcia, A., Wagenmakers, E.-J., Evans, N. J., & Scerif, G. (in press). Behavioural and neural indices of perceptual decision-making in autistic children during visual motion tasks. _Scientific Reports_.
+Manning, C., Hassall, C. D., Hunt, L. T., Norcia, A. M., Wagenmakers, E.-J., Evans, N. J., & Scerif, G. (2022). Behavioural and neural indices of perceptual decision-making in autistic children during visual motion tasks. _Scientific Reports_, _12_(1), 6072. [https://doi.org/10.1038/s41598-022-09885-4](https://doi.org/10.1038/s41598-022-09885-4 "https://doi.org/10.1038/s41598-022-09885-4")
 
 Manning, C., Hassall, C. D., Hunt, L. T., Norcia, A. M., Wagenmakers, E.-J., Snowling, M. J., Scerif, G., & Evans, N. J. (2022). Visual Motion and Decision-Making in Dyslexia: Reduced Accumulation of Sensory Evidence and Related Neural Dynamics. _Journal of Neuroscience_, _42_(1), 121–134. [https://doi.org/10.1523/JNEUROSCI.1232-21.2021](https://doi.org/10.1523/JNEUROSCI.1232-21.2021 "https://doi.org/10.1523/JNEUROSCI.1232-21.2021")
 
@@ -69,8 +69,6 @@ Krigolson, O. E., Hassall, C. D., & Handy, T. C. (2013). How We Learn to Make De
 Hassall, C. D., & Holroyd, C. B. (2021). Task-level value affects trial-level reward processing and control. _BioRxiv_, 2021.09.16.460600. [https://www.biorxiv.org/content/10.1101/2021.09.16.460600v1](https://www.biorxiv.org/content/10.1101/2021.09.16.460600v1 "https://www.biorxiv.org/content/10.1101/2021.09.16.460600v1")
 
 Hassall, C. D., Harley, J., Kolling, N., & Hunt, L. T. (2021). Temporal Scaling of Human Scalp-Recorded Potentials. _BioRxiv_, 2020.12.11.421180. [https://www.biorxiv.org/content/10.1101/2020.12.11.421180v6](https://www.biorxiv.org/content/10.1101/2020.12.11.421180v6 "https://www.biorxiv.org/content/10.1101/2020.12.11.421180v6")
-
-Manning, C., Hassall, C. D., Hunt, L., Norcia, A., Wagenmakers, E.-J., Evans, N. J., & Scerif, G. (2021). Behavioural and neural indices of perceptual decision-making in autistic children during visual motion tasks. _PsyArXiv_. [https://doi.org/10.31234/osf.io/s5r3m](https://doi.org/10.31234/osf.io/s5r3m "https://doi.org/10.31234/osf.io/s5r3m")
 
 **Conference Proceedings**
 
