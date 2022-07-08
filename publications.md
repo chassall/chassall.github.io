@@ -8,6 +8,8 @@ permalink: "/publications/"
 
 **Journal Articles**
 
+Hassall, C. D., Hunt, L.T., & Holroyd, C. B. (in press). Task-level value affects trial-level reward processing and control. _NeuroImage_. [https://doi.org/10.1016/j.neuroimage.2022.119456](https://doi.org/10.1016/j.neuroimage.2022.119456 "https://doi.org/10.1016/j.neuroimage.2022.119456")
+
 Manning, C., Hassall, C. D., Hunt, L. T., Norcia, A. M., Wagenmakers, E.-J., Evans, N. J., & Scerif, G. (2022). Behavioural and neural indices of perceptual decision-making in autistic children during visual motion tasks. _Scientific Reports_, _12_(1), 6072. [https://doi.org/10.1038/s41598-022-09885-4](https://doi.org/10.1038/s41598-022-09885-4 "https://doi.org/10.1038/s41598-022-09885-4")
 
 Manning, C., Hassall, C. D., Hunt, L. T., Norcia, A. M., Wagenmakers, E.-J., Snowling, M. J., Scerif, G., & Evans, N. J. (2022). Visual Motion and Decision-Making in Dyslexia: Reduced Accumulation of Sensory Evidence and Related Neural Dynamics. _Journal of Neuroscience_, _42_(1), 121–134. [https://doi.org/10.1523/JNEUROSCI.1232-21.2021](https://doi.org/10.1523/JNEUROSCI.1232-21.2021 "https://doi.org/10.1523/JNEUROSCI.1232-21.2021")
@@ -65,8 +67,6 @@ Krigolson, O. E., Hassall, C. D., Balcom, L., & Turk, D. (2013). Perceived owner
 Krigolson, O. E., Hassall, C. D., & Handy, T. C. (2013). How We Learn to Make Decisions: Rapid Propagation of Reinforcement Learning Prediction Errors in Humans. _Journal of Cognitive Neuroscience_, _26_(3), 635–644. [https://doi.org/10/gd32z4](https://doi.org/10/gd32z4 "https://doi.org/10/gd32z4")
 
 **Preprints**
-
-Hassall, C. D., & Holroyd, C. B. (2021). Task-level value affects trial-level reward processing and control. _BioRxiv_, 2021.09.16.460600. [https://www.biorxiv.org/content/10.1101/2021.09.16.460600v1](https://www.biorxiv.org/content/10.1101/2021.09.16.460600v1 "https://www.biorxiv.org/content/10.1101/2021.09.16.460600v1")
 
 Hassall, C. D., Harley, J., Kolling, N., & Hunt, L. T. (2021). Temporal Scaling of Human Scalp-Recorded Potentials. _BioRxiv_, 2020.12.11.421180. [https://www.biorxiv.org/content/10.1101/2020.12.11.421180v6](https://www.biorxiv.org/content/10.1101/2020.12.11.421180v6 "https://www.biorxiv.org/content/10.1101/2020.12.11.421180v6")
 
