@@ -8,6 +8,8 @@ permalink: "/publications/"
 
 **Journal Articles**
 
+Hassall, C. D., & Hunt, L. T. (2022). Novelty, uncertainty, and the looming horizon. _Neuron_, _110_(16), 2521–2523. [https://doi.org/10.1016/j.neuron.2022.07.009](https://doi.org/10.1016/j.neuron.2022.07.009 "https://doi.org/10.1016/j.neuron.2022.07.009")
+
 Hassall, C. D., Hunt, L.T., & Holroyd, C. B. (2022). Task-level value affects trial-level reward processing and control. _NeuroImage_, _260_, 119456.  [https://doi.org/10.1016/j.neuroimage.2022.119456](https://doi.org/10.1016/j.neuroimage.2022.119456 "https://doi.org/10.1016/j.neuroimage.2022.119456")
 
 Manning, C., Hassall, C. D., Hunt, L. T., Norcia, A. M., Wagenmakers, E.-J., Evans, N. J., & Scerif, G. (2022). Behavioural and neural indices of perceptual decision-making in autistic children during visual motion tasks. _Scientific Reports_, _12_(1), 6072. [https://doi.org/10.1038/s41598-022-09885-4](https://doi.org/10.1038/s41598-022-09885-4 "https://doi.org/10.1038/s41598-022-09885-4")
