@@ -8,15 +8,17 @@ permalink: "/publications/"
 
 **Journal Articles**
 
+Hassall, C. D., Harley, J., Kolling, N., & Hunt, L. T. (in press). Temporal scaling of human scalp-recorded potentials. _PNAS_. Preprint available at [https://www.biorxiv.org/content/10.1101/2020.12.11.421180v6](https://www.biorxiv.org/content/10.1101/2020.12.11.421180v6 "https://www.biorxiv.org/content/10.1101/2020.12.11.421180v6")
+
 Hassall, C. D., & Hunt, L. T. (2022). Novelty, uncertainty, and the looming horizon. _Neuron_, _110_(16), 2521–2523. [https://doi.org/10.1016/j.neuron.2022.07.009](https://doi.org/10.1016/j.neuron.2022.07.009 "https://doi.org/10.1016/j.neuron.2022.07.009")
 
 Hassall, C. D., Hunt, L.T., & Holroyd, C. B. (2022). Task-level value affects trial-level reward processing and control. _NeuroImage_, _260_, 119456.  [https://doi.org/10.1016/j.neuroimage.2022.119456](https://doi.org/10.1016/j.neuroimage.2022.119456 "https://doi.org/10.1016/j.neuroimage.2022.119456")
 
 Manning, C., Hassall, C. D., Hunt, L. T., Norcia, A. M., Wagenmakers, E.-J., Evans, N. J., & Scerif, G. (2022). Behavioural and neural indices of perceptual decision-making in autistic children during visual motion tasks. _Scientific Reports_, _12_(1), 6072. [https://doi.org/10.1038/s41598-022-09885-4](https://doi.org/10.1038/s41598-022-09885-4 "https://doi.org/10.1038/s41598-022-09885-4")
 
-Manning, C., Hassall, C. D., Hunt, L. T., Norcia, A. M., Wagenmakers, E.-J., Snowling, M. J., Scerif, G., & Evans, N. J. (2022). Visual Motion and Decision-Making in Dyslexia: Reduced Accumulation of Sensory Evidence and Related Neural Dynamics. _Journal of Neuroscience_, _42_(1), 121–134. [https://doi.org/10.1523/JNEUROSCI.1232-21.2021](https://doi.org/10.1523/JNEUROSCI.1232-21.2021 "https://doi.org/10.1523/JNEUROSCI.1232-21.2021")
+Manning, C., Hassall, C. D., Hunt, L. T., Norcia, A. M., Wagenmakers, E.-J., Snowling, M. J., Scerif, G., & Evans, N. J. (2022). Visual motion and decision-making in dyslexia: Reduced accumulation of sensory evidence and related neural dynamics. _Journal of Neuroscience_, _42_(1), 121–134. [https://doi.org/10.1523/JNEUROSCI.1232-21.2021](https://doi.org/10.1523/JNEUROSCI.1232-21.2021 "https://doi.org/10.1523/JNEUROSCI.1232-21.2021")
 
-Redden, R. S., Gagliardi, G. A., Williams, C. C., Hassall, C. D., & Krigolson, O. E. (2021). Champ versus Chump: Viewing an Opponent’s Face Engages Attention but Not Reward Systems. _Games_, _12_(3), 62. [https://doi.org/10.3390/g12030062](https://doi.org/10.3390/g12030062 "https://doi.org/10.3390/g12030062")
+Redden, R. S., Gagliardi, G. A., Williams, C. C., Hassall, C. D., & Krigolson, O. E. (2021). Champ versus chump: Viewing an opponent’s face engages attention but not reward systems. _Games_, _12_(3), 62. [https://doi.org/10.3390/g12030062](https://doi.org/10.3390/g12030062 "https://doi.org/10.3390/g12030062")
 
 Abubshait, A., Beatty, P. J., McDonald, C. G., Hassall, C. D., Krigolson, O. E., & Wiese, E. (2021). A win-win situation: Does familiarity with a social robot modulate feedback monitoring and learning? _Cognitive, Affective, & Behavioral Neuroscience_. [https://doi.org/10.3758/s13415-021-00895-9](https://doi.org/10.3758/s13415-021-00895-9 "https://doi.org/10.3758/s13415-021-00895-9")
 
@@ -67,10 +69,6 @@ Hassall, C. D., Holland, K., & Krigolson, O. E. (2013). What do I do now? An ele
 Krigolson, O. E., Hassall, C. D., Balcom, L., & Turk, D. (2013). Perceived ownership impacts reward evaluation within medial-frontal cortex. _Cognitive, Affective, & Behavioral Neuroscience_, _13_(2), 262–269. [https://doi.org/10/gd32z5](https://doi.org/10/gd32z5 "https://doi.org/10/gd32z5")
 
 Krigolson, O. E., Hassall, C. D., & Handy, T. C. (2013). How We Learn to Make Decisions: Rapid Propagation of Reinforcement Learning Prediction Errors in Humans. _Journal of Cognitive Neuroscience_, _26_(3), 635–644. [https://doi.org/10/gd32z4](https://doi.org/10/gd32z4 "https://doi.org/10/gd32z4")
-
-**Preprints**
-
-Hassall, C. D., Harley, J., Kolling, N., & Hunt, L. T. (2021). Temporal Scaling of Human Scalp-Recorded Potentials. _BioRxiv_, 2020.12.11.421180. [https://www.biorxiv.org/content/10.1101/2020.12.11.421180v6](https://www.biorxiv.org/content/10.1101/2020.12.11.421180v6 "https://www.biorxiv.org/content/10.1101/2020.12.11.421180v6")
 
 **Conference Proceedings**
 
