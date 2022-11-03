@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Markers
-permalink: /resources/markers
+permalink: "/resources/markers"
+
 ---
 ![markers](/images/markers.jpg)
 
@@ -15,22 +16,24 @@ The timing of several options for sending a marker via parallel cable are shown 
 
 ![usbtoserial](/images/usbtoserial.jpg)
 
-Manufacturer: Startech (link)
-Cost: Low
-Delay: 5.1 ms (SD = 4.2 ms)
+Manufacturer: Startech
+
+Cost: Low Delay: 5.1 ms (SD = 4.2 ms)
 
 ### Stimtracker
 
 ![stimtracker](/images/stimtracker.png)
 
-Cedrus (link)
-Cost: Medium
-Delay: 4.9 ms (SD = 3.9 ms)
+Cedrus
+
+Cost: Medium Delay: 4.9 ms (SD = 3.9 ms)
 
 ### DATAPixx2
 
 ![datapixx2](/images/datapixx2.png)
 
-VPixx (link)
-Delay (USB to parallel): 5.9 ms (SD = 3.9 ms)
+VPixx
+
+Delay (USB to parallel): 5.9 ms (SD = 3.9 ms) 
+
 Delay (video sync): 2.8 ms (SD = 0.6 ms)
