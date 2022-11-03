@@ -8,7 +8,7 @@ permalink: "/publications/"
 
 **Journal Articles**
 
-Hassall, C. D., Harley, J., Kolling, N., & Hunt, L. T. (in press). Temporal scaling of human scalp-recorded potentials. _PNAS_. Preprint available at [https://www.biorxiv.org/content/10.1101/2020.12.11.421180v6](https://www.biorxiv.org/content/10.1101/2020.12.11.421180v6 "https://www.biorxiv.org/content/10.1101/2020.12.11.421180v6")
+Hassall, C. D., Harley, J., Kolling, N., & Hunt, L. T. (2022). Temporal scaling of human scalp-recorded potentials. _PNAS, 119_ (43) e2214638119. [https://doi.org/10.1073/pnas.2214638119](https://doi.org/10.1073/pnas.2214638119 "https://doi.org/10.1073/pnas.2214638119")
 
 Hassall, C. D., & Hunt, L. T. (2022). Novelty, uncertainty, and the looming horizon. _Neuron_, _110_(16), 2521–2523. [https://doi.org/10.1016/j.neuron.2022.07.009](https://doi.org/10.1016/j.neuron.2022.07.009 "https://doi.org/10.1016/j.neuron.2022.07.009")
 
