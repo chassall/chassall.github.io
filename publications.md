@@ -118,7 +118,7 @@ Hassall, C.D., Holland, K., Pleskac, T.J., and Krigolson, O.E.  (2012). What do 
 
 **Poster Presentations**
 
-Yan, Y., & Hunt, L.T._, Hassall, C.D._ (2022). Feedback-related neural activity observed in a drumming task predicts subsequent timing performance. Poster presented at the Federation of European Neuroscience Societies (FENS) Annual Meeting, Paris, France. *co-senior authors.
+Yan, Y., & Hunt, L.T._,_ Hassall, C.D. (2022). Feedback-related neural activity observed in a drumming task predicts subsequent timing performance. Poster presented at the Federation of European Neuroscience Societies (FENS) Annual Meeting, Paris, France. *co-senior authors.
 
 Stahr, L., Weber, L., Brown, K., Mezossy-Dona, L., Hassall, C.D., & Hunt, L.T. (2022). Novel continuous sensory processing and decision-making paradigm exhibits high test-retest reliability across neural and behavioural measures. Poster presented at the Federation of European Neuroscience Societies (FENS) Annual Meeting, Paris, France.
 
