@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: cameronhassall.com
 author: Cameron Hassall
-email: cameron.hassall@psych.ox.ac.uk
+email: chassall@uvic.ca
 description: >- # this means to ignore newlines until "baseurl:"
  Built using Jekyll and the minima theme.
 baseurl: "" # the subpath of your site, e.g. /blog
