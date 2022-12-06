@@ -72,6 +72,8 @@ Krigolson, O. E., Hassall, C. D., & Handy, T. C. (2013). How We Learn to Make De
 
 **Conference Proceedings**
 
+Weber, L.A., Ruesseler, M., Stahr, L., Grohn. J., Mezossy-Dona, L., Marshall, T., Hassall, C.D., O’Reilly, J., & Hunt, L. (2022). Decision-making in dynamic, continuously evolving environments: quantifying the flexibility of choice and exploration. Paper presented at the Fifth Annual Reinforcement Learning and Decision Making (RLDM) Conference, Providence, RI.
+
 Hassall, C.D., & Krigolson, O.E. (2015)_._ Human  reinforcement learning in non-stationary environments. Paper presented  at the Second Annual Reinforcement Learning and Decision Making (RLDM)  Conference, Edmonton, AB. ([link](http://rldm.org/wp-content/uploads/2015/05/RLDM2015ExtendedAbstracts.pdf))
 
 Hassall, C.D., Bhargava, R., Trappenberg, T., & Krigolson, O.E. (2012)_._ A  Robust Wall-Following Robot That Learns by Example. Paper presented at  the Annual Dalhousie Computer Science In-House Conference (DCSI 2012),  Halifax, NS. Extended abstract. ([link](http://dcsi.cs.dal.ca/DCSI2012/content/proceedings))
