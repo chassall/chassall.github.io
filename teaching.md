@@ -8,11 +8,11 @@ permalink: "/teaching/"
 
 **Post-Secondary (TA)**
 
-EPHE 380: Motor Control, University of Victoria, 2016-2018 (for [Olav Krigolson](http://www.olavkrigolson.com) and [Francisco Colino](https://www.uvic.ca/research/neuroeducation/people/Postdoctoral%20fellows/2FColino.php))
+EPHE 380: Motor Control, University of Victoria, 2016-2018 (for [Olav Krigolson](http://www.olavkrigolson.com))
 
 EPHE 245: Motor Learning, University of Victoria, 2014-2017 (for [Olav Krigolson](http://www.olavkrigolson.com))
 
-PSYC 574A: Cognitive Methods: EEG and ERPs, University of Victoria, 2016 (for [Clay Holroyd](https://www.uvic.ca/socialsciences/psychology/people/faculty-directory/holroydclay.php))
+PSYC 574A: Cognitive Methods: EEG and ERPs, University of Victoria, 2016 (for [Clay Holroyd](https://www.ugent.be/en/research/research-ugent/eu-trackrecord/h2020/erc-h2020/seeacc.htm))
 
 PSYO/NESC 2130: Introduction to Cognitive Psychology/Neuroscience, Dalhousie, 2014 (for [Olav Krigolson](https://www.uvic.ca/socialsciences/psychology/people/faculty-directory/holroydclay.php))
 
@@ -32,7 +32,7 @@ COGS 401: Seminar in Cognitive Systems, UBC, 2010 (for [Lawrence Ward](http://ps
 
 **Post-Secondary (Instructor)**
 
-COGS 200: Introduction to Cognitive Systems, UBC, 2011 (with [Rose-Marie Déchaine](http://linguistics.ubc.ca/persons/rose-marie-dechaine/) and [Christopher Mole](http://faculty.arts.ubc.ca/cmole/Home.html))
+COGS 200: Introduction to Cognitive Systems, UBC, 2011 (with [Rose-Marie Déchaine](http://linguistics.ubc.ca/persons/rose-marie-dechaine/) and [Christopher Mole](https://philosophy.ubc.ca/profile/christopher-mole/))
 
 **Secondary**
 
