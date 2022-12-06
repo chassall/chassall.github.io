@@ -84,6 +84,8 @@ Pritchard, B., Fels, S., d'Alessandro, N., Witvoet, M., Wang, J.,  Hassall, C., 
 
 **Oral Presentations**
 
+Hassall, C. D., Harley, J., Kolling, N., & Hunt, L. T. (2020). Regression-based EEG analysis reveals temporally scaled signals during interval timing. Neuromatch Conference (NMC) third online meeting.
+
 Hassall, C.D., Chia, M., and Krigolson, O.E. (2018). Triplets! Optimization of retinopathy diagnosis through triplet embedding.  Northwest Cognition and Memory (NOWCAM) Annual Meeting, Richmond, BC.
 
 Grey, T.B., Hassall, C.D., and Krigolson, O.E. (2018). Neural Responses to Expected and Unexpected Feedback During a Multi-Step Goal-Directed Task.  Northwest Cognition and Memory (NOWCAM) Annual Meeting, Richmond, BC.
@@ -116,13 +118,13 @@ Hassall, C.D., Holland, K., Pleskac, T.J., and Krigolson, O.E.  (2012). What do 
 
 **Poster Presentations**
 
-Yan, Y., & Hunt, L.T.*, Hassall, C.D.* (2022). Feedback-related neural activity observed in a drumming task predicts subsequent timing performance. Poster presented at the Federation of European Neuroscience Societies (FENS) Annual Meeting, Paris, France. *co-senior authors.
+Yan, Y., & Hunt, L.T._, Hassall, C.D._ (2022). Feedback-related neural activity observed in a drumming task predicts subsequent timing performance. Poster presented at the Federation of European Neuroscience Societies (FENS) Annual Meeting, Paris, France. *co-senior authors.
 
 Stahr, L., Weber, L., Brown, K., Mezossy-Dona, L., Hassall, C.D., & Hunt, L.T. (2022). Novel continuous sensory processing and decision-making paradigm exhibits high test-retest reliability across neural and behavioural measures. Poster presented at the Federation of European Neuroscience Societies (FENS) Annual Meeting, Paris, France.
 
 Weber, L., Ruesseler, M., Stahr, L., Mezossy-Dona, L., Hassall, C.D., Marshall, T., O’Reilly, J., Hunt, L.T. (2022). Decision-making in dynamic, continuously evolving environments: A novel task design to reliably quantify the flexibility of decision formation and its neural signatures. Poster presented at the Federation of European Neuroscience Societies (FENS) Annual Meeting, Paris, France.
 
-Yan, Y., & Hunt, L.T.*, Hassall, C.D.* (2022). The differential effect of prediction error and information on timing in a drumming task. Poster presented at the Computational Principles of Prefrontal Cortex (CPPC) Annual Meeting, Oxford, UK. *co-senior authors.
+Yan, Y., & Hunt, L.T._, Hassall, C.D._ (2022). The differential effect of prediction error and information on timing in a drumming task. Poster presented at the Computational Principles of Prefrontal Cortex (CPPC) Annual Meeting, Oxford, UK. *co-senior authors.
 
 Weber, L.A., Ruesseler, M., Stahr, L., Grohn, J., Mezossy-Dona, L., Marshall, T., Hassall, C.D., O’Reilly, J., Hunt, L. (2022). Decision-making in dynamic, continuously evolving environments: quantifying the flexibility of choice and exploration computations. Poster presented at the Computational Principles of Prefrontal Cortex (CPPC) Annual Meeting, Oxford, UK.
 
