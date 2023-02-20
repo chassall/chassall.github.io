@@ -8,6 +8,8 @@ permalink: "/publications/"
 
 **Journal Articles**
 
+Williams, C.C., Hassall, C.D., & Krigolson, O.E. (in press). Stabilizing expectations when shifting from analytical to intuitive reasoning: The role of prediction errors in reasoning. _Cortex_.
+
 Hassall, C. D., Harley, J., Kolling, N., & Hunt, L. T. (2022). Temporal scaling of human scalp-recorded potentials. _PNAS, 119_ (43) e2214638119. [https://doi.org/10.1073/pnas.2214638119](https://doi.org/10.1073/pnas.2214638119 "https://doi.org/10.1073/pnas.2214638119")
 
 Hassall, C. D., & Hunt, L. T. (2022). Novelty, uncertainty, and the looming horizon. _Neuron_, _110_(16), 2521–2523. [https://doi.org/10.1016/j.neuron.2022.07.009](https://doi.org/10.1016/j.neuron.2022.07.009 "https://doi.org/10.1016/j.neuron.2022.07.009")
